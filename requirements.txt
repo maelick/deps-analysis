@@ -1,0 +1,6 @@
+jupyter==1.0.0
+pandas==0.18.1
+matplotlib==1.5.2
+seaborn==0.7.1
+tqdm==4.8.4
+
